@@ -1,0 +1,7 @@
+def myfile(a,b,c):
+  c=a+b
+  print(c)
+a=int(input("Enter a number:")
+b=int(input("Enter a number:)
+myfile()
+  
